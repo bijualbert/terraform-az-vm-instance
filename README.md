@@ -5,7 +5,7 @@ This Terraform configuration creates a resource group, virtual network, subnet, 
 You can run the following Terraform commands to initialize the configuration, preview the changes, and apply the changes:
 
 ```terraform
-Copy code```
+
 terraform init
 terraform plan
 terraform apply
